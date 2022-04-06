@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Lenovo US/CA](https://www.lenovo.com/us/en/pc/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React / Backend**
 
 - 📫 How to reach me **joaco.w93@gmail.com**
 
